@@ -1,0 +1,45 @@
+{
+	"file_name": "038_032_022.png",
+	"width": 1920,
+	"height": 1080,
+	"video_file_name": "bb_1_000105_vehicle_032_038",
+	"sequence_frame_number": 22,
+	"objects": [
+		{
+			"bbox": [
+				75,
+				550,
+				759,
+				451
+			],
+			"category": "vehicle",
+			"isObjectA": false,
+			"isObjectB": false,
+			"isObjectOthers": false
+		},
+		{
+			"bbox": [
+				699,
+				494,
+				332,
+				295
+			],
+			"category": "vehicle",
+			"isObjectA": false,
+			"isObjectB": false,
+			"isObjectOthers": false
+		},
+		{
+			"bbox": [
+				878,
+				425,
+				1002,
+				654
+			],
+			"category": "vehicle",
+			"isObjectA": false,
+			"isObjectB": true,
+			"isObjectOthers": false
+		}
+	]
+}

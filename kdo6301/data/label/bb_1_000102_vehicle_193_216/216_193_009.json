@@ -1,0 +1,21 @@
+{
+	"file_name": "216_193_009.png",
+	"width": 1920,
+	"height": 1080,
+	"video_file_name": "bb_1_000102_vehicle_193_216",
+	"sequence_frame_number": 9,
+	"objects": [
+		{
+			"bbox": [
+				1060,
+				481,
+				144,
+				98
+			],
+			"category": "vehicle",
+			"isObjectA": false,
+			"isObjectB": false,
+			"isObjectOthers": false
+		}
+	]
+}

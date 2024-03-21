@@ -1,0 +1,33 @@
+{
+	"file_name": "113_29_063.png",
+	"width": 1920,
+	"height": 1080,
+	"video_file_name": "bb_1_000101_vehicle_29_113",
+	"sequence_frame_number": 63,
+	"objects": [
+		{
+			"bbox": [
+				692,
+				313,
+				39,
+				43
+			],
+			"category": "traffic-sign",
+			"isObjectA": false,
+			"isObjectB": false,
+			"isObjectOthers": false
+		},
+		{
+			"bbox": [
+				1002,
+				368,
+				533,
+				405
+			],
+			"category": "vehicle",
+			"isObjectA": true,
+			"isObjectB": false,
+			"isObjectOthers": false
+		}
+	]
+}
