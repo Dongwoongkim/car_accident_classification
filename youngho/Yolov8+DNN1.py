@@ -53,14 +53,6 @@ abnormal_len = -1
 
 split_ratio = [0.7, 0.15, 0.15] # Training, Validation, Test 데이터셋 비율
 
-"""
-result가 모두 다르게 나오는(제대로 돌아가는) 하이퍼파라미터
-BATCH_SIZE = 5
-EPOCH = 300
-NUM_LAYERS = 16
-BBOX_LEN = 6
-HIDDEN_SIZE = 32
-"""
 BATCH_SIZE = 5
 EPOCH = 300
 NUM_LAYERS = 8
